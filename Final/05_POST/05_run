@@ -1,0 +1,3 @@
+vcs -R -full64 -f post_sim.f +define+PAT0 | tee post_sim_p0.log
+vcs -R -full64 -f post_sim.f +define+PAT1 | tee post_sim_p1.log
+vcs -R -full64 -f post_sim.f +define+PAT2 | tee post_sim_p2.log

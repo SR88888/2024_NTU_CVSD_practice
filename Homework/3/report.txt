@@ -1,0 +1,3 @@
+Clock period: 4.0 (ns)
+
+Area : 204918.8 (um^2)
